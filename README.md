@@ -4,7 +4,7 @@
 # Project deployed at
 
 
-### Screenshots and working explained
+# Screenshots and working explained
 
 ➡️ By default I made the brush size to be 14, and the color of the brush to be black. 
 
