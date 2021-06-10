@@ -1,6 +1,9 @@
 # Canvas Drawing Website
 ✏️This is a simple drawing website with basic functions like increasing the size of the brush from 5 to 50, changing the colors of the brushes , etc.
  
+# Project deployed at
+
+
 ### Screenshots and working explained
 
 ➡️ By default I made the brush size to be 14, and the color of the brush to be black. 
@@ -27,4 +30,4 @@
 
 ![screenshots](https://github.com/Mithesh14/canvas-drawing-website/blob/main/images/image6.jpg)
 
-### Website
+
